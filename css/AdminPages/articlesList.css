@@ -37,3 +37,26 @@ body {
     color: #edc6b1 ;
 }
 
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: #7c96ab;
+    margin-top: 5rem ;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+
+}
+
+.card-head {
+    display: flex;
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+th {
+    font-family: monospace;
+    font-size: 1rem;
+    padding: 0.4rem ;
+}
+
